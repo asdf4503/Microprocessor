@@ -1,0 +1,5 @@
+﻿  MyCGI_main.c
+C:\Users\pc\Desktop\내꺼(건들면 물어요)\2023 2학기 과목 정리 (3학년)\마이크로프로세서\Projects_CGI(Visual)\Pjt17_IOT_IIS(MyCGI - dynamic web page)\MyCGI\MyCGI_main.c(10,13): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\pc\Desktop\내꺼(건들면 물어요)\2023 2학기 과목 정리 (3학년)\마이크로프로세서\Projects_CGI(Visual)\Pjt17_IOT_IIS(MyCGI - dynamic web page)\MyCGI\MyCGI_main.c(7,7): warning C4101: 'data' :참조되지 않은 지역 변수입니다.
+  MyCGI_web.c
+  MyCGI.vcxproj -> C:\Users\pc\Desktop\내꺼(건들면 물어요)\2023 2학기 과목 정리 (3학년)\마이크로프로세서\Projects_CGI(Visual)\Pjt17_IOT_IIS(MyCGI - dynamic web page)\x64\Debug\MyCGI.exe
